@@ -1,0 +1,14 @@
+NODE JS COURS
+
+Node JS est bien pour les jeux, chats APIs Rest/GRAPHQL
+Avantages par rapport a d'autres langages de prog pas de GUI juste le back end, il donne accès a d'autres objets comme des processus, des grands projets
+"let" et "var" sont  modifiables mais "const" NON
+array [[ ou bien new array ()
+un tableau dans un tableau 
+pour créer un objet
+const objet
+instance1 = [{"fghj"{[
+pour faire une boucle;
+POUR MERGER DESOBJETS ...arr1 ...arr2 
+for( let i = 0; i < name.length; i++){
+...console.log(name[i]

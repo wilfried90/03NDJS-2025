@@ -1,0 +1,204 @@
+=== Liste des pays par dette extérieure ===
+
+Rang  | Pays                     | Dette extérieure  | Date
+--------------------------------------------------------------------------------
+1      | États-Unis                     | 30 000 000 000 000   | 2 février 2022
+2      | Chine                          | 40 000 000 000 000   | 31 décembre 2019 est.
+3      | Union européenne               | 13 720 000 000 000   | 30 juin 2010
+4      | Royaume-Uni                    | 8 981 000 000 000    | 30 juin 2010
+5      | Allemagne                      | 4 713 000 000 000    | 30 juin 2010
+6      | Pays-Bas                       | 3 790 000 000 000    | 31 décembre 2024
+7      | France                         | 3 299 462 620 000    | 30 juin 2023
+8      | Japon                          | 2 441 000 000 000    | 30 septembre 2010
+9      | Irlande                        | 2 253 000 000 000    | 30 septembre 2010
+10     | Italie                         | 2 223 000 000 000    | 30 juin 2010 est.
+10     | Espagne                        | 2 166 000 000 000    | 30 juin 2010
+11     | Belgique                       | 1 241 000 000 000    | 30 juin 2010
+12     | Norvège                        | 643 000 000 000      | 12 août 2011
+13     | Luxembourg                     | 20 000 000 000       | 31 décembre 2023
+14     | Suisse                         | 233 000 000 000      | 30 septembre 2010
+15     | Australie                      | 1 169 000 000 000    | 31 décembre 2010 est.
+16     | Canada                         | 1 009 000 000 000    | 30 juin 2010
+17     | Suède                          | 853 300 000 000      | 30 juin 2010
+18     | Autriche                       | 755 000 000 000      | 30 juin 2010
+—      | Hong Kong                      | 750 800 000 000      | 31 décembre 2010 est.
+19     | Danemark                       | 559 500 000 000      | 30 juin 2010
+20     | Grèce                          | 532 900 000 000      | 30 juin 2010
+21     | Portugal                       | 497 800 000 000      | 30 juin 2010
+22     | Russie                         | 480 200 000 000      | 30 novembre 2010 est.
+24     | Finlande                       | 370 800 000 000      | 30 juin 2010
+25     | Corée du Sud                   | 370 100 000 000      | 31 décembre 2010 est.
+26     | Brésil                         | 310 800 000 000      | 31 décembre 2010 est.
+27     | Turquie                        | 270 700 000 000      | 31 décembre 2010 est.
+28     | Pologne                        | 252 900 000 000      | 31 décembre 2010 est.
+29     | Inde                           | 100 000 000 000      | 31 décembre 2010
+30     | Mexique                        | 212 500 000 000      | 31 décembre 2010 est.
+31     | Indonésie                      | 196 100 000 000      | 31 décembre 2010 est.
+32     | Argentine                      | 160 900 000 000      | 30 septembre 2010 est.
+33     | Hongrie                        | 148 400 000 000      | 31 décembre 2010 est.
+34     | Émirats arabes unis            | 122 700 000 000      | 31 December 2010 est.
+35     | Roumanie                       | 108 900 000 000      | 31 décembre 2010 est.
+36     | Ukraine                        | 97 500 000 000       | 31 décembre 2010 est.
+37     | Kazakhstan                     | 94 440 000 000       | 31 décembre 2010 est.
+38     | Israël                         | 89 680 000 000       | 31 décembre 2010 est.
+39     | République tchèque             | 86 790 000 000       | 31 décembre 2010 est.
+40     | Chili                          | 84 510 000 000       | 31 décembre 2010 est.
+41     | Arabie saoudite                | 82 920 000 000       | 31 décembre 2010 est.
+42     | Thaïlande                      | 82 500 000 000       | 31 décembre 2010 est.
+43     | Afrique du Sud                 | 80 520 000 000       | 30 juin 2010 est.
+44     | Maroc                          | 75 470 000 000       | 30 avril 2016   est
+45     | Malaisie                       | 72 600 000 000       | 31 décembre 2010 est.
+46     | Qatar                          | 71 380 000 000       | 31 décembre 2010 est.
+47     | Nouvelle-Zélande               | 59 770 000 000       | Mars 2011
+47     | Philippines                    | 59 770 000 000       | 30 septembre 2010 est.
+48     | Croatie                        | 59 700 000 000       | 31 décembre 2010 est.
+49     | Slovaquie                      | 59 330 000 000       | 30 juin 2010 est.
+50     | Colombie                       | 57 740 000 000       | 31 décembre 2010 est.
+51     | Pakistan                       | 57 210 000 000       | 31 décembre 2010 est.
+52     | Koweït                         | 56 810 000 000       | 31 décembre 2010 est.
+53     | Venezuela                      | 55 610 000 000       | 31 décembre 2010 est.
+54     | Irak                           | 52 580 000 000       | 31 décembre 2010 est.
+55     | Slovénie                       | 51 570 000 000       | 30 juin 2010
+56     | Bulgarie                       | 47 150 000 000       | 30 novembre 2010 est.
+57     | Soudan                         | 37 980 000 000       | 31 décembre 2010 est.
+58     | Lettonie                       | 37 280 000 000       | 31 décembre 2010 est.
+59     | Liban                          | 34 450 000 000       | 31 décembre 2010 est.
+60     | Viêt Nam                       | 33 450 000 000       | 31 décembre 2010 est.
+61     | Pérou                          | 33 290 000 000       | 31 décembre 2010 est.
+62     | Chypre                         | 32 610 000 000       | 31 décembre 2008 est.
+63     | Serbie                         | 30 900 000 000       | 30 novembre 2010 est.
+64     | Égypte                         | 30 610 000 000       | 31 décembre 2010 est.
+65     | Lituanie                       | 27 600 000 000       | 31 décembre 2010 est.
+66     | Biélorussie                    | 24 800 000 000       | 31 décembre 2010 est.
+67     | Bangladesh                     | 24 460 000 000       | 31 décembre 2010 est.
+69     | Estonie                        | 22 210 000 000       | 31 décembre 2010 est.
+70     | Singapour                      | 21 660 000 000       | 31 décembre 2010 est.
+71     | Cuba                           | 19 750 000 000       | 31 décembre 2010 est.
+72     | Tunisie                        | 42 000 000 000       | 31 décembre 2010 est.
+73     | Monaco                         | 16 500 000 000       | Juillet 2011 est.
+74     | Angola                         | 17 980 000 000       | 331 décembre 2010 est.
+75     | Sri Lanka                      | 17 970 000 000       | 31 décembre 2010 est.
+76     | Guatemala                      | 17 470 000 000       | 331 décembre 2010 est.
+77     | Équateur                       | 14 710 000 000       | 31 décembre 2010 est.
+78     | Bahreïn                        | 14 680 000 000       | 31 décembre 2010 est.
+79     | Panama                         | 13 850 000 000       | 31 décembre 2010 est.
+80     | République démocratique du Congo | 13 500 000 000       | 2009 est.
+81     | Uruguay                        | 13 390 000 000       | 31 décembre 2010 est.
+82     | République dominicaine         | 13 090 000 000       | 31 December 2010 est.
+83     | Iran                           | 12 840 000 000       | 31 décembre 2010 est.
+84     | Jamaïque                       | 12 660 000 000       | 31 décembre 2010 est.
+85     | Corée du Nord                  | 12 500 000 000       | 2001 est.
+86     | Côte d'Ivoire                  | 11 600 000 000       | 31 décembre 2010 est.
+87     | Salvador                       | 11 450 000 000       | 31 décembre 2010 est.
+88     | Nigeria                        | 11 020 000 000       | 31 décembre 2010 est.
+89     | Oman                           | 8 829 000 000        | 31 décembre 2010 est.
+90     | Costa Rica                     | 8 550 000 000        | 31 décembre 2010 est.
+91     | Bosnie-Herzégovine             | 7 996 000 000        | 31 décembre 2010 est.
+92     | Kenya                          | 7 935 000 000        | 31 décembre 2010 est.
+93     | Syrie                          | 7 682 000 000        | 31 décembre 2010 est.
+94     | Zimbabwe                       | 7 662 000 000        | 31 décembre 2010 est.
+95     | Tanzanie                       | 7 576 000 000        | 31 décembre 2010 est.
+96     | Yémen                          | 7 147 000 000        | 31 décembre 2010 est.
+97     | Birmanie                       | 7 145 000 000        | 31 décembre 2010 est.
+98     | Ghana                          | 6 483 000 000        | 31 décembre 2010 est.
+99     | Libye                          | 6 378 000 000        | 331 décembre 2010 est.
+100    | Malte                          | 5 978 000 000        | 31 décembre 2010
+101    | Laos                           | 5 797 000 000        | 2010 est.
+102    | Jordanie                       | 5 522 000 000        | 31 décembre 2010 est.
+103    | Macédoine                      | 5 485 000 000        | 30 septembre 2010 est.
+104    | Arménie                        | 5 227 000 000        | 30 juin 2010
+105    | Maurice                        | 5 043 000 000        | 31 décembre 2010 est.
+107    | Turkménistan                   | 5 000 000 000        | 2009 est.
+106    | République du Congo            | 5 000 000 000        | 2000 est.
+108    | Mozambique                     | 4 990 000 000        | 31 décembre 2010 est.
+109    | Moldavie                       | 4 618 000 000        | 30 septembre 2010 est.
+110    | Népal                          | 4 500 000 000        | 2009
+111    | Cambodge                       | 4 338 000 000        | 31 décembre 2010 est.
+112    | Trinité-et-Tobago              | 4 303 000 000        | 31 décembre 2010 est.
+113    | Éthiopie                       | 4 289 000 000        | 31 décembre 2010 est.
+114    | Ouzbékistan                    | 4 236 000 000        | 31 décembre 2010 est.
+116    | Nicaragua                      | 4 030 000 000        | 31 décembre 2010 est.
+117    | Sénégal                        | 3 885 000 000        | 31 décembre 2010 est.
+118    | Kirghizistan                   | 3 738 000 000        | 30 juin 2010
+119    | Honduras                       | 3 540 000 000        | 31 décembre 2010 est.
+120    | Zambie                         | 3 495 000 000        | 31 décembre 2010 est.
+121    | Géorgie                        | 3 381 000 000        | 31 décembre 2009
+122    | Cameroun                       | 3 344 000 000        | 31 décembre 2010 est.
+123    | Azerbaïdjan                    | 3 221 000 000        | 31 décembre 2010 est.
+124    | Liberia                        | 3 200 000 000        | 2005 est.
+125    | Islande                        | 3 073 000 000        | 2002
+126    | Guinée                         | 3 072 000 000        | 31 décembre 2009 est.
+127    | Somalie                        | 3 000 000 000        | 2001 est.
+128    | Madagascar                     | 2 973 000 000        | 31 décembre 2010 est.
+129    | Bénin                          | 2 894 000 000        | 31 décembre 2009 est.
+130    | Ouganda                        | 2 888 000 000        | 31 décembre 2010 est.
+131    | Bolivie                        | 2 864 000 000        | 31 décembre 2010 est.
+132    | Albanie                        | 2 810 000 000        | 2009
+133    | Mali                           | 2 800 000 000        | 2002
+134    | Afghanistan                    | 2 700 000 000        | 2008-2009
+135    | Paraguay                       | 2 445 000 000        | 31 décembre 2010 est.
+136    | Gabon                          | 2 374 000 000        | 31 décembre 2021 est.
+137    | Namibie                        | 2 373 000 000        | 31 décembre 2010 est.
+138    | Botswana                       | 2 222 000 000        | 31 décembre 2010 est.
+139    | Niger                          | 2 100 000 000        | 2003 est.
+140    | Burkina Faso                   | 2 002 000 000        | 31 décembre 2010 est.
+141    | Tadjikistan                    | 1 997 000 000        | 31 décembre 2010 est.
+142    | Mongolie                       | 1 860 000 000        | 2009
+143    | Tchad                          | 1 749 000 000        | 31 décembre 2008 est.
+144    | Sierra Leone                   | 1 610 000 000        | 2003 est.
+145    | Papouasie-Nouvelle-Guinée      | 1 548 000 000        | 31 décembre 2010 est.
+146    | Seychelles                     | 1 374 000 000        | 31 décembre 2010 est.
+147    | Malawi                         | 1 213 000 000        | 31 décembre 2010 est.
+148    | Burundi                        | 1 200 000 000        | 2003
+149    | République centrafricaine      | 1 153 000 000        | 2007 est.
+150    | Palestine                      | 1 040 000 000        | 2010 est.
+151    | Érythrée                       | 961 900 000          | 31 décembre 2008 est.
+152    | Maldives                       | 943 000 000          | 2010 est.
+153    | Guinée-Bissau                  | 941 500 000          | 2000 est.
+154    | Bhoutan                        | 836 000 000          | 2009
+155    | Guinée équatoriale             | 832 000 000          | 31 décembre 2010 est.
+156    | Guyana                         | 804 300 000          | 30 septembre 2008
+157    | Barbade                        | 668 000 000          | 2003
+158    | Monténégro                     | 650 000 000          | 2006
+159    | Lesotho                        | 647 000 000          | 31 décembre 2010 est.
+160    | Gambie                         | 530 000 000          | 31 décembre 2010 est.
+161    | Suriname                       | 504 300 000          | 2005 est.
+162    | Eswatini / Swaziland           | 497 000 000          | 31 décembre 2010 est.
+163    | Saint-Vincent-et-les-Grenadines | 479 000 000          | 2010 est.
+164    | Djibouti                       | 428 000 000          | 2006
+—      | Aruba                          | 478 600 000          | 2005 est.
+165    | Antigua-et-Barbuda             | 359 800 000          | Juin 2006
+166    | Haïti                          | 350 000 000          | 31 décembre 2010 est.
+167    | Grenade                        | 347 000 000          | 2004
+168    | Bahamas                        | 342 600 000          | 2004 est.
+169    | Cap-Vert                       | 325 000 000          | 2002
+170    | Sao Tomé-et-Principe           | 318 000 000          | 2002
+171    | Saint-Christophe-et-Niévès     | 314 000 000          | 2004
+172    | Sainte-Lucie                   | 257 000 000          | 2004
+173    | Comores                        | 232 000 000          | 2000 est.
+174    | Dominique                      | 213 000 000          | 2004
+175    | Samoa                          | 177 000 000          | 2004
+176    | Îles Salomon                   | 166 000 000          | 2004
+177    | Belize                         | 1 010 000 000        | 2009 est.
+—      | Bermudes                       | 160 000 000          | 1999-2000
+—      | Îles Cook                      | 141 000 000          | 1996 est.
+178    | Algérie                        | 126 900 000          | 2022 est.
+179    | Îles Marshall                  | 87 000 000           | 2008 est.
+180    | Vanuatu                        | 81 200 000           | 2004
+181    | Tonga                          | 80 700 000           | 2004
+182    | Îles Caïmans                   | 70 000 000           | 1996
+183    | Îles Féroé                     | 68 100 000           | 2006
+184    | États fédérés de Micronésie    | 60 800 000           | 2005 est.
+185    | Groenland                      | 58 000 000           | 2009
+186    | Îles Vierges britanniques      | 36 100 000           | 1997
+187    | Nauru                          | 33 300 000           | 2004 est.
+188    | Kiribati                       | 10 000 000           | 1999 est.
+189    | Montserrat                     | 8 900 000            | 1997
+190    | Anguilla                       | 8 800 000            | 1998
+191    | Wallis-et-Futuna               | 3 670 000            | 2004
+192    | Niue                           | 418 000              | 2002 est.
+193    | Macao                          | 0                    | 2010
+194    | Brunei                         | 0                    | 2005
+195    | Fidji                          | 127 000 000          | 2004 est.
+196    | Liechtenstein                  | 0                    | 2001
+197    | Palaos                         | 0                    | 1999-2000
