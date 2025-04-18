@@ -1,21 +1,29 @@
-const users = []; // Stockage en mémoire
+const User = require('../models/User');
 
-exports.getCurrentUser = (req, res) => {
-  res.json({ email: req.user.email });
+const getMe = (req, res) => {
+  // L'utilisateur est attaché à la requête par le middleware d'authentification
+  const { password, ...userWithoutPassword } = req.user;
+  res.json(userWithoutPassword);
 };
 
-exports.getAllUsers = (req, res) => {
-  res.json(users.map(user => ({ email: user.email })));
+const getAllUsers = (req, res) => {
+  const users = User.getAll().map(user => {
+    const { password, ...userWithoutPassword } = user;
+    return userWithoutPassword;
+  });
+  res.json(users);
 };
 
-exports.deleteUser = (req, res) => {
-  const userId = req.params.id;
-  const userIndex = users.findIndex(u => u.email === userId);
+const deleteUser = (req, res) => {
+  const { id } = req.params;
+  const user = User.deleteById(id);
   
-  if (userIndex === -1) {
+  if (!user) {
     return res.status(404).json({ message: 'User not found' });
   }
 
-  users.splice(userIndex, 1);
   res.json({ message: 'User deleted' });
 };
+
+module.exports = { getMe, getAllUsers, deleteUser };
+
